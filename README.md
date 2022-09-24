@@ -4,10 +4,10 @@ This project comprises designing and building a database to assist students in f
 
 We will be developing an application that will provide students access to the database which will have the following features:
 
-Creating a profile(Both Renter & Rentee)
-To add/remove/update the spot(Renter)
-To find a spot/roommate(Rentee)
-Filtering preferences(Both Renter & Rentee)
+1. Creating a profile(Both Renter & Rentee)
+2. To add/remove/update the spot(Renter)
+3. To find a spot/roommate(Rentee)
+4. Filtering preferences(Both Renter & Rentee)
 
 Team Members:
 
