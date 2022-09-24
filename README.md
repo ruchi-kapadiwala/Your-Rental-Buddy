@@ -9,7 +9,7 @@ We will be developing an application that will provide students access to the da
 3. To find a spot/roommate(Rentee)
 4. Filtering preferences(Both Renter & Rentee)
 
-Team Members:
+**Team Members:**
 
 Neha Bhutkar- (email: bhutkar.n@northeastern.edu) Github: https://github.com/NehaBhutkar/Your-Rental-Buddy
 
