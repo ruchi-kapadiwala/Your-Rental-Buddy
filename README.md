@@ -8,7 +8,9 @@ Creating a profile(Both Renter & Rentee)
 To add/remove/update the spot(Renter)
 To find a spot/roommate(Rentee)
 Filtering preferences(Both Renter & Rentee)
+
 Team Members: 
+
 Neha Bhutkar- (email: bhutkar.n@northeastern.edu) Github: https://github.com/NehaBhutkar/Your-Rental-Buddy
 
 Amey Parange (email: parange.a@northeastern.edu) Github: https://github.com/amey379/Your-Rental-Buddy
